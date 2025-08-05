@@ -1,0 +1,30 @@
+[
+  {
+    "nis": 12345,
+    "nama": "Siswa 1",
+    "jurusan": "PPLG",
+    "sekolah": "SMKN 6 Surakarta",
+    "status": "Aktif"
+  },
+  {
+    "nis": 12346,
+    "nama": "Siswa dua",
+    "jurusan": "PPLG",
+    "sekolah": "SMKN 6 Surakarta",
+    "status": "Aktif"
+  },
+  {
+    "nis": 12347,
+    "nama": "Siswa tiga",
+    "jurusan": "PPLG",
+    "sekolah": "SMKN 6 Surakarta",
+    "status": "Aktif"
+  },
+  {
+    "nis": 12348,
+    "nama": "Siswa empat",
+    "jurusan": "PPLG",
+    "sekolah": "SMKN 6 SURAKARTA",
+    "status": "Aktif"
+  }
+]
